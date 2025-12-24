@@ -27,7 +27,6 @@ The primary aim of this database is to:
 
 ![](record_payment.png)
 
-Tip:
 
 This is important for effective coordination of activities between the customers, stores, delivery personnel, as well as the payment systems.
 
