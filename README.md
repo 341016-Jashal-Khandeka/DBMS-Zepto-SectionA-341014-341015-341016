@@ -47,14 +47,19 @@ The scope of the database comprises the following functional areas:
 ### 1. Customers
 
 It stores basic information of the customers like name, phone number, address, city, and registration date.
+![Customers](Customers.png)
+
 
 ### 2. Products
 
 It contains information about products such as the name of the product, category, brand, amount, and description of quantity.
+![Product Table](Product Table.png)
+
 
 ### 3. Dark Stores
 
 These are the fulfillment centers that the company utilizes for distributing products quickly to their consumers.
+![Darkstore](Darkstore.png)
 
 ### 4. Inventory
 
@@ -63,22 +68,31 @@ Keeps stock levels of items that are held at dark stores.
 ### 5. Orders
 
 It stores information like order number, order date, total amount, delivery charge, order status, and delivery address.
+![Order](Order.png)
+
 
 ### 6. Order Items
 
 It records minute details of products that are ordered, including their quantity and cost.
+![Order Items](Order Items.png)
+
 
 ### 7. Delivery Partners
 
 Stores information about delivery executives, their allotted stores, type of vehicle, and availability.
+![Delivery Partner](Delivery Partner.png)
 
 ### 8. Deliver
 
 Tracks the delivery process including pickup time, delivery time, and customer ratings.
+![Deliveries](Deliveries.png)
+
 
 ### 9. Payments
 
 It stores information such as payment type, status, transaction ID, and payment time.
+![Payment Table](Payment Table.png)
+
 
 ## 5. Database Design Logic
 
