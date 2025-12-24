@@ -80,7 +80,9 @@ It records minute details of products that are ordered, including their quantity
 ### 7. Delivery Partners
 
 Stores information about delivery executives, their allotted stores, type of vehicle, and availability.
-![Delivery Partner](Delivery Partner.png)
+
+![DeliveryPartner](DeliveryPartner.png)
+
 
 ### 8. Deliver
 
