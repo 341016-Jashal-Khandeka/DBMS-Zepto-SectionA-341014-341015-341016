@@ -53,7 +53,7 @@ It stores basic information of the customers like name, phone number, address, c
 ### 2. Products
 
 It contains information about products such as the name of the product, category, brand, amount, and description of quantity.
-![Product Table](Product Table.png)
+![ProductTable](ProductTable.png)
 
 
 ### 3. Dark Stores
@@ -74,7 +74,7 @@ It stores information like order number, order date, total amount, delivery char
 ### 6. Order Items
 
 It records minute details of products that are ordered, including their quantity and cost.
-![Order Items](Order Items.png)
+![OrderItems](OrderItems.png)
 
 
 ### 7. Delivery Partners
@@ -92,12 +92,10 @@ Tracks the delivery process including pickup time, delivery time, and customer r
 ### 9. Payments
 
 It stores information such as payment type, status, transaction ID, and payment time.
-![Payment Table](Payment Table.png)
+![PaymentTable](PaymentTable.png)
 
 
 ## 5. Database Design Logic
-
-La base de datos se estructura sobre un modelo relacional.
 
 A primary key for unique identification is present for each table.
 
