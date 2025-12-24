@@ -3,7 +3,12 @@
   <img src="assets/fore_logo.png" alt="FORE School of Management" height="80" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="assets/zepto_logo.png" alt="Zepto" height="80" />
+</p><p align="center">
+  <img src="FORE LOGO.jpeg" alt="FORE School of Management" height="80" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="ZEPTO LOGO.jpeg" alt="Zepto" height="80" />
 </p>
+
 
 ## 1. Introduction
 
